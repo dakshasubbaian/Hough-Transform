@@ -119,8 +119,6 @@ Separate the detected lines into left and right lane lines. Calculate average sl
 
 <img width="330" height="507" alt="image" src="https://github.com/user-attachments/assets/6133841b-12c4-495d-b64b-db2ce6982fcc" />
 
-<img width="437" height="672" alt="image" src="https://github.com/user-attachments/assets/01a0474e-c258-4e21-a9af-63f35549af0d" />
-
 <img width="446" height="697" alt="image" src="https://github.com/user-attachments/assets/f53f6cde-0041-4126-9b6f-afdc11ccafc0" />
 
 ## Result
