@@ -1,4 +1,4 @@
-# EX. No: 7 – Lane Detection Using OpenCV
+# EX. No: 7 – Hough Transform
 ## Developed by:
 ## Name: DAKSHA SUBBAIAN
 ## Register number:212223230036
